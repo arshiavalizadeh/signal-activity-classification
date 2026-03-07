@@ -3,3 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 data/UCI_HAR_Dataset/
+.vscode/
+data/
